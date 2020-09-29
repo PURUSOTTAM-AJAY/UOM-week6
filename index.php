@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Guessing Game for Charles Severance</title>
+<title>Guessing Game for PURUSOTTAM AJAY KUMAR</title>
 </head>
 <body>
 <h1>Welcome to my guessing game</h1>
